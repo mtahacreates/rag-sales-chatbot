@@ -1,4 +1,4 @@
-# rag-sales-chatbot
+# Rag-sales-chatbot
 A GPT-4 + RAG-based chatbot to retrieve internal sales document answers.
 # 🧠 RAG Chatbot for Internal Sales Docs
 
